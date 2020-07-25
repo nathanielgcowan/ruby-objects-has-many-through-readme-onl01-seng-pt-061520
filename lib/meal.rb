@@ -15,4 +15,8 @@ class Meal
     @@all
   end
   
+  def new_meal
+    meal.new
+  end
+  
 end
