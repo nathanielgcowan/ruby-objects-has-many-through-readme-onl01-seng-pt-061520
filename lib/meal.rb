@@ -5,4 +5,9 @@ class Meal
     @amount = amount
     @tip = tip
   end
+  
+  def self.all
+    @@all
+  end
+  
 end
