@@ -14,4 +14,14 @@ class Waiter
     @@all
   end
   
+  def new_meal
+    
+  end
+  
+  def best_tipper
+    
+  end
+  
+  
+  
 end
