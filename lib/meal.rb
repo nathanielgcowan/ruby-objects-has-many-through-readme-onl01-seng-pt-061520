@@ -4,6 +4,5 @@ class Meal
     @customer = customer
     @amount = amount
     @tip = tip
-    @@all.all = @@all
   end
 end
